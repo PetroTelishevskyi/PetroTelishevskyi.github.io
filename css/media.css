@@ -1,0 +1,5 @@
+@media(max-width: 1170px){
+    .header__top_item:nth-child(2){
+        display: none;
+    }
+}
